@@ -30,10 +30,4 @@ class Attributes:
 		environnement = ['vscode', 'pycharm']
 		
 		return langs, specialities, environnement
-		
-	def projects(self):
-		webSite    = ['nayuwsite']
-		
-		
-		return webSite
 ```
