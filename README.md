@@ -41,7 +41,7 @@
 ---
 ## GITHUB STATUS
 
-![Nayu! GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayustyley&show_icons=true&theme=radical)
+![Nayu! GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayustyle&show_icons=true&theme=radical)
 
 </details>
 
