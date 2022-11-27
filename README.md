@@ -1,4 +1,4 @@
-<img src="https://github.com/Nayustyle/Nayustyle/blob/main/image.jpg" width="400" img align="right" />
+<img src="https://github.com/Nayustyle/Nayustyle/blob/main/image.jpg" width="250" img align="right" />
 
 <!-- GO CODE -->
 ```python
