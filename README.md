@@ -15,10 +15,9 @@ class Attributes:
 
 	def life(self):
 		langs         = ['Spanish', 'English']
-		nationality = self.langs.remove('Peruvian', 'Spanish')
 		birth_year           = '08/20/23'
-		
-		return langs, nationalities, birth_year
+
+		return langs, birth_year
 		
 	def coding(self):
 		langs = {
@@ -26,8 +25,6 @@ class Attributes:
 			'intermediate': ['sql','javascript', 'html', 'css'],
 			'learning': ['c', 'c#','c++']
 		}
-		specialities  = ['web developer'. ' frontend']
-		environnement = ['vscode', 'pycharm']
 		
-		return langs, specialities, environnement
+		return langs
 ```
