@@ -1,5 +1,3 @@
-<div style="width: 10px;"></div>
-<a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 <!-- GO CODE -->
 ```python
 import coding
