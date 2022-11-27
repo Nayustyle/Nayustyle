@@ -30,4 +30,4 @@ class Attributes:
 ```
 
 
-[<img src="https://novatorem-6wkbdky8e-nayustyle.vercel.app/api/spotify" alt="nayustyle spotify playing" width="350" />]()
+[<img src="https://novatorem-6wkbdky8e-nayustyle.vercel.app/api/spotify" alt="novatorem" width="350" />]()
