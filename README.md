@@ -30,4 +30,4 @@ class Attributes:
 ```
 
 
-[<img src="https://novatorem-6wkbdky8e-nayustyle.vercel.app/api/spotify" alt="novatorem" width="350" />]()
+[![Spotify](https://spotifyplaying-dqagxmdf6-nayustyle.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/31mclyikmeu5pdhanavs6jqrveua)
