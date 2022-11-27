@@ -28,3 +28,5 @@ class Attributes:
 		
 		return langs
 ```
+
+[![Spotify](https://novatorem-6wkbdky8e-nayustyle.vercel.app/api/spotify)](https://open.spotify.com/user/31mclyikmeu5pdhanavs6jqrveua)
