@@ -1,6 +1,6 @@
 ### Hi there, I'm Nayu  👋
 
-![](https://media.discordapp.net/attachments/844415422598348800/845542424033493012/Dev.png)
+![]([https://media.discordapp.net/attachments/844415422598348800/845542424033493012/Dev.png](https://external-preview.redd.it/MCD2jxUCoKLXqar8FhZzn0-BBMOy5KZU_7WKOOJZQjY.jpg?width=640&crop=smart&auto=webp&s=8633b7af697f254bd52160b0d936c592891d2c08))
 
 ## I am a developer!!
 
