@@ -1,6 +1,5 @@
 <div style="width: 10px;"></div>
-src="https://i.pinimg.com/564x/81/ae/68/81ae68568c20840de1342858f4c2abb7.jpg"/></a>
-
+<a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 <!-- GO CODE -->
 ```python
 import coding
