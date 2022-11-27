@@ -1,4 +1,4 @@
-<img src="https://static.wikia.nocookie.net/featteca/images/a/aa/Makima.png/revision/latest/scale-to-width-down/600?cb=20220919213636&path-prefix=es" width="260" img align="right" />
+<img src="https://github.com/Nayustyle/Nayustyle/blob/main/makima.png" width="260" img align="right" />
 
 <!-- GO CODE -->
 ```python
