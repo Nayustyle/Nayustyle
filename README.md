@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Nayustyle/Nayustyle/blob/main/image.jpg" width="200" />
+<img src="https://github.com/Nayustyle/Nayustyle/blob/main/image.jpg" width="200" /><img align="right" 
 <!-- GO CODE -->
 ```python
 import coding
