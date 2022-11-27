@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/79/66/98/7966988e6e440f6554c5bf8fb762e79a.jpg" img align="right" />
+<img src="https://i.pinimg.com/564x/79/66/98/7966988e6e440f6554c5bf8fb762e79a.jpg" width="200" img align="right" />
 
 <!-- GO CODE -->
 ```python
