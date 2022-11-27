@@ -29,5 +29,4 @@ class Attributes:
 		return langs
 ```
 
-
-[![Spotify](https://spotifyplaying-dqagxmdf6-nayustyle.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/31mclyikmeu5pdhanavs6jqrveua)
+[<img src="https://spotifyplaying-dqagxmdf6-nayustyle.vercel.app.vercel.app/api/spotify" alt="naviscode spotify playing" width="350" />]()
