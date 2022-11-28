@@ -10,6 +10,7 @@ class Attributes:
 		
 	def contact(self):
 	    email   = "nayustylpy@gmail.com"
+	    discord = "Miyukiii#8217"
 	    
 	    return email
 
